@@ -1,0 +1,227 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\talok\\Documents\\GitHub\\Aircraft-Carrier-project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{432A23F9-6EA7-4F6D-9BB9-7B0EA1F7C971}|AircraftCarrier\\AircraftCarrier.csproj|c:\\users\\talok\\documents\\github\\aircraft-carrier-project\\aircraftcarrier\\hummer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{432A23F9-6EA7-4F6D-9BB9-7B0EA1F7C971}|AircraftCarrier\\AircraftCarrier.csproj|solutionrelative:aircraftcarrier\\hummer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{432A23F9-6EA7-4F6D-9BB9-7B0EA1F7C971}|AircraftCarrier\\AircraftCarrier.csproj|C:\\Users\\talok\\Documents\\GitHub\\Aircraft-Carrier-project\\aircraftcarrier\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{432A23F9-6EA7-4F6D-9BB9-7B0EA1F7C971}|AircraftCarrier\\AircraftCarrier.csproj|solutionrelative:aircraftcarrier\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{432A23F9-6EA7-4F6D-9BB9-7B0EA1F7C971}|AircraftCarrier\\AircraftCarrier.csproj|C:\\Users\\talok\\Documents\\GitHub\\Aircraft-Carrier-project\\aircraftcarrier\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{432A23F9-6EA7-4F6D-9BB9-7B0EA1F7C971}|AircraftCarrier\\AircraftCarrier.csproj|solutionrelative:aircraftcarrier\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{432A23F9-6EA7-4F6D-9BB9-7B0EA1F7C971}|AircraftCarrier\\AircraftCarrier.csproj|C:\\Users\\talok\\Documents\\GitHub\\Aircraft-Carrier-project\\aircraftcarrier\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{432A23F9-6EA7-4F6D-9BB9-7B0EA1F7C971}|AircraftCarrier\\AircraftCarrier.csproj|solutionrelative:aircraftcarrier\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{432A23F9-6EA7-4F6D-9BB9-7B0EA1F7C971}|AircraftCarrier\\AircraftCarrier.csproj|C:\\Users\\talok\\Documents\\GitHub\\Aircraft-Carrier-project\\aircraftcarrier\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{432A23F9-6EA7-4F6D-9BB9-7B0EA1F7C971}|AircraftCarrier\\AircraftCarrier.csproj|solutionrelative:aircraftcarrier\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{432A23F9-6EA7-4F6D-9BB9-7B0EA1F7C971}|AircraftCarrier\\AircraftCarrier.csproj|C:\\Users\\talok\\Documents\\GitHub\\Aircraft-Carrier-project\\aircraftcarrier\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{432A23F9-6EA7-4F6D-9BB9-7B0EA1F7C971}|AircraftCarrier\\AircraftCarrier.csproj|solutionrelative:aircraftcarrier\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{432A23F9-6EA7-4F6D-9BB9-7B0EA1F7C971}|AircraftCarrier\\AircraftCarrier.csproj|C:\\Users\\talok\\Documents\\GitHub\\Aircraft-Carrier-project\\aircraftcarrier\\vehiclelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{432A23F9-6EA7-4F6D-9BB9-7B0EA1F7C971}|AircraftCarrier\\AircraftCarrier.csproj|solutionrelative:aircraftcarrier\\vehiclelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{432A23F9-6EA7-4F6D-9BB9-7B0EA1F7C971}|AircraftCarrier\\AircraftCarrier.csproj|C:\\Users\\talok\\Documents\\GitHub\\Aircraft-Carrier-project\\aircraftcarrier\\tank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{432A23F9-6EA7-4F6D-9BB9-7B0EA1F7C971}|AircraftCarrier\\AircraftCarrier.csproj|solutionrelative:aircraftcarrier\\tank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{432A23F9-6EA7-4F6D-9BB9-7B0EA1F7C971}|AircraftCarrier\\AircraftCarrier.csproj|C:\\Users\\talok\\Documents\\GitHub\\Aircraft-Carrier-project\\aircraftcarrier\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{432A23F9-6EA7-4F6D-9BB9-7B0EA1F7C971}|AircraftCarrier\\AircraftCarrier.csproj|solutionrelative:aircraftcarrier\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{432A23F9-6EA7-4F6D-9BB9-7B0EA1F7C971}|AircraftCarrier\\AircraftCarrier.csproj|C:\\Users\\talok\\Documents\\GitHub\\Aircraft-Carrier-project\\aircraftcarrier\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{432A23F9-6EA7-4F6D-9BB9-7B0EA1F7C971}|AircraftCarrier\\AircraftCarrier.csproj|solutionrelative:aircraftcarrier\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{432A23F9-6EA7-4F6D-9BB9-7B0EA1F7C971}|AircraftCarrier\\AircraftCarrier.csproj|C:\\Users\\talok\\Documents\\GitHub\\Aircraft-Carrier-project\\aircraftcarrier\\airtransport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{432A23F9-6EA7-4F6D-9BB9-7B0EA1F7C971}|AircraftCarrier\\AircraftCarrier.csproj|solutionrelative:aircraftcarrier\\airtransport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{432A23F9-6EA7-4F6D-9BB9-7B0EA1F7C971}|AircraftCarrier\\AircraftCarrier.csproj|C:\\Users\\talok\\Documents\\GitHub\\Aircraft-Carrier-project\\aircraftcarrier\\f16.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{432A23F9-6EA7-4F6D-9BB9-7B0EA1F7C971}|AircraftCarrier\\AircraftCarrier.csproj|solutionrelative:aircraftcarrier\\f16.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{432A23F9-6EA7-4F6D-9BB9-7B0EA1F7C971}|AircraftCarrier\\AircraftCarrier.csproj|C:\\Users\\talok\\Documents\\GitHub\\Aircraft-Carrier-project\\aircraftcarrier\\groundtransport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{432A23F9-6EA7-4F6D-9BB9-7B0EA1F7C971}|AircraftCarrier\\AircraftCarrier.csproj|solutionrelative:aircraftcarrier\\groundtransport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\talok\\Documents\\GitHub\\Aircraft-Carrier-project\\AircraftCarrier\\Form1.resx",
+              "RelativeDocumentMoniker": "AircraftCarrier\\Form1.resx",
+              "ToolTip": "C:\\Users\\talok\\Documents\\GitHub\\Aircraft-Carrier-project\\AircraftCarrier\\Form1.resx",
+              "RelativeToolTip": "AircraftCarrier\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-09-18T10:34:42.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\talok\\Documents\\GitHub\\Aircraft-Carrier-project\\AircraftCarrier\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "AircraftCarrier\\Properties\\Resources.Designer.cs",
+              "ToolTip": "C:\\Users\\talok\\Documents\\GitHub\\Aircraft-Carrier-project\\AircraftCarrier\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "AircraftCarrier\\Properties\\Resources.Designer.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAowBMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T10:32:58.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\talok\\Documents\\GitHub\\Aircraft-Carrier-project\\AircraftCarrier\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "AircraftCarrier\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\talok\\Documents\\GitHub\\Aircraft-Carrier-project\\AircraftCarrier\\Form1.Designer.cs",
+              "RelativeToolTip": "AircraftCarrier\\Form1.Designer.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAAAGMAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T10:32:28.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VehicleList.cs",
+              "DocumentMoniker": "C:\\Users\\talok\\Documents\\GitHub\\Aircraft-Carrier-project\\AircraftCarrier\\VehicleList.cs",
+              "RelativeDocumentMoniker": "AircraftCarrier\\VehicleList.cs",
+              "ToolTip": "C:\\Users\\talok\\Documents\\GitHub\\Aircraft-Carrier-project\\AircraftCarrier\\VehicleList.cs",
+              "RelativeToolTip": "AircraftCarrier\\VehicleList.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAACwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T05:06:12.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\talok\\Documents\\GitHub\\Aircraft-Carrier-project\\AircraftCarrier\\Program.cs",
+              "RelativeDocumentMoniker": "AircraftCarrier\\Program.cs",
+              "ToolTip": "C:\\Users\\talok\\Documents\\GitHub\\Aircraft-Carrier-project\\AircraftCarrier\\Program.cs",
+              "RelativeToolTip": "AircraftCarrier\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAIBJwAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T19:28:35.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\talok\\Documents\\GitHub\\Aircraft-Carrier-project\\AircraftCarrier\\Form1.cs",
+              "RelativeDocumentMoniker": "AircraftCarrier\\Form1.cs",
+              "ToolTip": "C:\\Users\\talok\\Documents\\GitHub\\Aircraft-Carrier-project\\AircraftCarrier\\Form1.cs",
+              "RelativeToolTip": "AircraftCarrier\\Form1.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAUwGMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T18:49:59.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\talok\\Documents\\GitHub\\Aircraft-Carrier-project\\AircraftCarrier\\Form1.cs",
+              "RelativeDocumentMoniker": "AircraftCarrier\\Form1.cs",
+              "ToolTip": "C:\\Users\\talok\\Desktop\\aircraft new\\AircraftCarrier\\AircraftCarrier\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\aircraft new\\AircraftCarrier\\AircraftCarrier\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T19:28:07.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Hummer.cs",
+              "DocumentMoniker": "C:\\Users\\talok\\Documents\\GitHub\\Aircraft-Carrier-project\\AircraftCarrier\\Hummer.cs",
+              "RelativeDocumentMoniker": "AircraftCarrier\\Hummer.cs",
+              "ToolTip": "C:\\Users\\talok\\Documents\\GitHub\\Aircraft-Carrier-project\\AircraftCarrier\\Hummer.cs",
+              "RelativeToolTip": "AircraftCarrier\\Hummer.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAqwFQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T05:35:42.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VEHICLE.cs",
+              "DocumentMoniker": "C:\\Users\\talok\\Documents\\GitHub\\Aircraft-Carrier-project\\AircraftCarrier\\VEHICLE.cs",
+              "RelativeDocumentMoniker": "AircraftCarrier\\VEHICLE.cs",
+              "ToolTip": "C:\\Users\\talok\\Documents\\GitHub\\Aircraft-Carrier-project\\AircraftCarrier\\VEHICLE.cs",
+              "RelativeToolTip": "AircraftCarrier\\VEHICLE.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T05:05:33.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AirTransport.cs",
+              "DocumentMoniker": "C:\\Users\\talok\\Documents\\GitHub\\Aircraft-Carrier-project\\AircraftCarrier\\AirTransport.cs",
+              "RelativeDocumentMoniker": "AircraftCarrier\\AirTransport.cs",
+              "ToolTip": "C:\\Users\\talok\\Documents\\GitHub\\Aircraft-Carrier-project\\AircraftCarrier\\AirTransport.cs",
+              "RelativeToolTip": "AircraftCarrier\\AirTransport.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAA+wEwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T05:06:42.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "F16.cs",
+              "DocumentMoniker": "C:\\Users\\talok\\Documents\\GitHub\\Aircraft-Carrier-project\\AircraftCarrier\\F16.cs",
+              "RelativeDocumentMoniker": "AircraftCarrier\\F16.cs",
+              "ToolTip": "C:\\Users\\talok\\Documents\\GitHub\\Aircraft-Carrier-project\\AircraftCarrier\\F16.cs",
+              "RelativeToolTip": "AircraftCarrier\\F16.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAA+wE0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T05:07:08.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Tank.cs",
+              "DocumentMoniker": "C:\\Users\\talok\\Documents\\GitHub\\Aircraft-Carrier-project\\AircraftCarrier\\Tank.cs",
+              "RelativeDocumentMoniker": "AircraftCarrier\\Tank.cs",
+              "ToolTip": "C:\\Users\\talok\\Documents\\GitHub\\Aircraft-Carrier-project\\AircraftCarrier\\Tank.cs",
+              "RelativeToolTip": "AircraftCarrier\\Tank.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAADwvyoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T18:44:39.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GroundTransport.cs",
+              "DocumentMoniker": "C:\\Users\\talok\\Documents\\GitHub\\Aircraft-Carrier-project\\AircraftCarrier\\GroundTransport.cs",
+              "RelativeDocumentMoniker": "AircraftCarrier\\GroundTransport.cs",
+              "ToolTip": "C:\\Users\\talok\\Documents\\GitHub\\Aircraft-Carrier-project\\AircraftCarrier\\GroundTransport.cs",
+              "RelativeToolTip": "AircraftCarrier\\GroundTransport.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAIBJwEwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T18:43:44.506Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

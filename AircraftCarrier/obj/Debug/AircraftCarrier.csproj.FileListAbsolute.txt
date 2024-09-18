@@ -1,0 +1,40 @@
+C:\Dan\HIT שנה א\מונחה עצמים\FinalProject\AircraftCarrier\AircraftCarrier\obj\Debug\AircraftCarrier.csproj.AssemblyReference.cache
+C:\Dan\HIT שנה א\מונחה עצמים\FinalProject\AircraftCarrier\AircraftCarrier\obj\Debug\AircraftCarrier.Form1.resources
+C:\Dan\HIT שנה א\מונחה עצמים\FinalProject\AircraftCarrier\AircraftCarrier\obj\Debug\AircraftCarrier.Properties.Resources.resources
+C:\Dan\HIT שנה א\מונחה עצמים\FinalProject\AircraftCarrier\AircraftCarrier\obj\Debug\AircraftCarrier.csproj.GenerateResource.cache
+C:\Dan\HIT שנה א\מונחה עצמים\FinalProject\AircraftCarrier\AircraftCarrier\obj\Debug\AircraftCarrier.csproj.CoreCompileInputs.cache
+C:\Dan\HIT שנה א\מונחה עצמים\FinalProject\AircraftCarrier\AircraftCarrier\bin\Debug\AircraftCarrier.exe.config
+C:\Dan\HIT שנה א\מונחה עצמים\FinalProject\AircraftCarrier\AircraftCarrier\bin\Debug\AircraftCarrier.exe
+C:\Dan\HIT שנה א\מונחה עצמים\FinalProject\AircraftCarrier\AircraftCarrier\bin\Debug\AircraftCarrier.pdb
+C:\Dan\HIT שנה א\מונחה עצמים\FinalProject\AircraftCarrier\AircraftCarrier\obj\Debug\AircraftCarrier.exe
+C:\Dan\HIT שנה א\מונחה עצמים\FinalProject\AircraftCarrier\AircraftCarrier\obj\Debug\AircraftCarrier.pdb
+D:\HIT-CS\שנה א סמסטר ב\מונחה עצמים\Project\AircraftCarrier\AircraftCarrier\bin\Debug\AircraftCarrier.exe.config
+D:\HIT-CS\שנה א סמסטר ב\מונחה עצמים\Project\AircraftCarrier\AircraftCarrier\bin\Debug\AircraftCarrier.exe
+D:\HIT-CS\שנה א סמסטר ב\מונחה עצמים\Project\AircraftCarrier\AircraftCarrier\bin\Debug\AircraftCarrier.pdb
+D:\HIT-CS\שנה א סמסטר ב\מונחה עצמים\Project\AircraftCarrier\AircraftCarrier\obj\Debug\AircraftCarrier.csproj.AssemblyReference.cache
+D:\HIT-CS\שנה א סמסטר ב\מונחה עצמים\Project\AircraftCarrier\AircraftCarrier\obj\Debug\AircraftCarrier.Form1.resources
+D:\HIT-CS\שנה א סמסטר ב\מונחה עצמים\Project\AircraftCarrier\AircraftCarrier\obj\Debug\AircraftCarrier.Properties.Resources.resources
+D:\HIT-CS\שנה א סמסטר ב\מונחה עצמים\Project\AircraftCarrier\AircraftCarrier\obj\Debug\AircraftCarrier.csproj.GenerateResource.cache
+D:\HIT-CS\שנה א סמסטר ב\מונחה עצמים\Project\AircraftCarrier\AircraftCarrier\obj\Debug\AircraftCarrier.csproj.CoreCompileInputs.cache
+D:\HIT-CS\שנה א סמסטר ב\מונחה עצמים\Project\AircraftCarrier\AircraftCarrier\obj\Debug\AircraftCarrier.exe
+D:\HIT-CS\שנה א סמסטר ב\מונחה עצמים\Project\AircraftCarrier\AircraftCarrier\obj\Debug\AircraftCarrier.pdb
+C:\Dan\HIT שנה א\מונחה עצמים\AircraftCarrier\AircraftCarrier\AircraftCarrier\bin\Debug\AircraftCarrier.exe.config
+C:\Dan\HIT שנה א\מונחה עצמים\AircraftCarrier\AircraftCarrier\AircraftCarrier\bin\Debug\AircraftCarrier.exe
+C:\Dan\HIT שנה א\מונחה עצמים\AircraftCarrier\AircraftCarrier\AircraftCarrier\bin\Debug\AircraftCarrier.pdb
+C:\Dan\HIT שנה א\מונחה עצמים\AircraftCarrier\AircraftCarrier\AircraftCarrier\obj\Debug\AircraftCarrier.csproj.AssemblyReference.cache
+C:\Dan\HIT שנה א\מונחה עצמים\AircraftCarrier\AircraftCarrier\AircraftCarrier\obj\Debug\AircraftCarrier.Form1.resources
+C:\Dan\HIT שנה א\מונחה עצמים\AircraftCarrier\AircraftCarrier\AircraftCarrier\obj\Debug\AircraftCarrier.Properties.Resources.resources
+C:\Dan\HIT שנה א\מונחה עצמים\AircraftCarrier\AircraftCarrier\AircraftCarrier\obj\Debug\AircraftCarrier.csproj.GenerateResource.cache
+C:\Dan\HIT שנה א\מונחה עצמים\AircraftCarrier\AircraftCarrier\AircraftCarrier\obj\Debug\AircraftCarrier.csproj.CoreCompileInputs.cache
+C:\Dan\HIT שנה א\מונחה עצמים\AircraftCarrier\AircraftCarrier\AircraftCarrier\obj\Debug\AircraftCarrier.exe
+C:\Dan\HIT שנה א\מונחה עצמים\AircraftCarrier\AircraftCarrier\AircraftCarrier\obj\Debug\AircraftCarrier.pdb
+C:\Users\talok\Desktop\aircraft new\AircraftCarrier\AircraftCarrier\bin\Debug\AircraftCarrier.exe.config
+C:\Users\talok\Desktop\aircraft new\AircraftCarrier\AircraftCarrier\bin\Debug\AircraftCarrier.exe
+C:\Users\talok\Desktop\aircraft new\AircraftCarrier\AircraftCarrier\bin\Debug\AircraftCarrier.pdb
+C:\Users\talok\Desktop\aircraft new\AircraftCarrier\AircraftCarrier\obj\Debug\AircraftCarrier.csproj.AssemblyReference.cache
+C:\Users\talok\Desktop\aircraft new\AircraftCarrier\AircraftCarrier\obj\Debug\AircraftCarrier.Form1.resources
+C:\Users\talok\Desktop\aircraft new\AircraftCarrier\AircraftCarrier\obj\Debug\AircraftCarrier.Properties.Resources.resources
+C:\Users\talok\Desktop\aircraft new\AircraftCarrier\AircraftCarrier\obj\Debug\AircraftCarrier.csproj.GenerateResource.cache
+C:\Users\talok\Desktop\aircraft new\AircraftCarrier\AircraftCarrier\obj\Debug\AircraftCarrier.csproj.CoreCompileInputs.cache
+C:\Users\talok\Desktop\aircraft new\AircraftCarrier\AircraftCarrier\obj\Debug\AircraftCarrier.exe
+C:\Users\talok\Desktop\aircraft new\AircraftCarrier\AircraftCarrier\obj\Debug\AircraftCarrier.pdb
